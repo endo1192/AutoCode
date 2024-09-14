@@ -1,0 +1,29 @@
+html, body{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: black !important;
+}
+
+body{
+    background: black !important;
+    color:rgb(222, 221, 221) !important;
+    background-position: center center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+p{
+    
+    text-align: center;
+    font-size: 20pt;
+}
+
+h1{
+    text-align: center;
+    color:blue;
+}
+
+a{
+    color:red;
+}
